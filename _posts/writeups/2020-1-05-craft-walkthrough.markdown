@@ -231,7 +231,8 @@ Why did these vulnerabilities exist?
 ![Custom Vault Token Type Creation](../../assets/img/writeups/htb/craft/custom_vault_write.png)
 {: refdef}
 
-**Fix: Either do not allow root login via SSH or do not enable SSH login tokens to be created with Vault**
+**Fix: Either do not allow root login via SSH or do not enable SSH login tokens to be created with Vault**  
+**Updated Fix: Leaving the ~./vault_token on the box allowed us to do this. The existence of the file means we have authenticated to the backend and we can make requests. To fix the vulnerability, the file must be removed and we must be forced to authenticate to the backend first** 
 
 Overall, a fantastic box. I was finally able to leverage some tips I learned on previous boxes. This felt like the most realistic box I have done to date. Shoutout to rotarydrone for making it possible. Thanks for reading, on to the next one.
 
