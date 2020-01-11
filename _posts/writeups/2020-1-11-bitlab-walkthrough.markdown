@@ -36,7 +36,7 @@ Bringing up port 80 in a browser, we are greeted with a login page to GitLab, a 
 
 If we check out the robots.txt file for the page, it has over 50 entries! Turns out, GitLab keeps an updated robots.txt file that ships with each version of GitLab. I compared the robots.txt of this instance to that in the current codebase for GitLab, but found no differences. As well, it seemed no matter what URL I appended to 10.10.10.114, the page redirected me to the login page. Which was very interesting at the time.
 
-![GitLab homepage](../../assets/img/writeups/htb/bitlab/gitLab_homepage_1.png)
+![GitLab homepage](../../assets/img/writeups/htb/bitlab/gitlab_homepage_1.png)
 
 Trying default credentials, as well as some simple combinations, did not bring up anything useful. There were 3 tabs that we could navigate too, without logging in.
 - Explore
