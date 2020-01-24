@@ -3,4 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-drafts
+
+# Block specific writeups for NON Retired Boxes
+*obscurity*
+*openadmin*
