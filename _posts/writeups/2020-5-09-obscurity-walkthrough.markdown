@@ -8,7 +8,7 @@ permalink: /:categories/:title
 
 ![Obscurity Logo](../../assets/img/writeups/htb/obscurity/about_box.png)
 
-Date: ?/?/2020   
+Date:5/9/2020   
 Author: n0tAc0p  
 
 Table of Contents

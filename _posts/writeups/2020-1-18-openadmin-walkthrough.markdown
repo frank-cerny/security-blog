@@ -7,7 +7,7 @@ permalink: /:categories/:title
 
 ![OpenAdmin Logo](../../assets/img/writeups/htb/openadmin/info_card.png)
 
-Date: ?/?/2020   
+Date: 5/9/2020   
 Author: n0tAc0p  
 
 Table of Contents
