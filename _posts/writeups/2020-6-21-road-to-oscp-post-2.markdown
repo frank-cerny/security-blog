@@ -44,7 +44,7 @@ Very well made box. Openened my eyes to many things I never knew about the Windo
 
 #### Lessions Learned
 - Different locations x32 and x64-bit binaries are stored on windows
-- How to use and compile `Seatbelt` and `Watson`
+- How to use and compile [Seatbelt](https://github.com/GhostPack/Seatbelt){:target=blank} and [Watson](https://github.com/rasta-mouse/Watson){:target=blank}
 - Asp(x) reverse shells are a thing
 - How to find the .NET version of a machine
 - Basic PowerShell fundamentals
